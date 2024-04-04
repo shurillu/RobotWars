@@ -1,3 +1,3 @@
-*** Arduino User Group Cagliari RobotWars
+###Arduino User Group Cagliari RobotWars
 
 In progress
