@@ -1,8 +1,10 @@
-# Arduino User Group Cagliari - Robot Wars
+# Tools
+Some useful tools.
 
 ## esptool
 
-Espressif SoC serial bootloader utility.
+Espressif SoC serial bootloader utility.<br>
+Among all the fueatures, useful for completely erase the ESP32 flash.
 
 - [esptool win64 (local)](esptool-v4.7.0-win64.zip)
 - [esptool macos (local)](esptool-v4.7.0-macos.zip)
