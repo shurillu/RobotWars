@@ -9,4 +9,4 @@ All the libraries used in the sketches. It is **strongly** suggested to use thes
 - **ESP32Servo**: library for Servo/Brushless motors. [Original repository](https://github.com/RoboticsBrno/ServoESP32).
 - **FastLED**: library for Neopixel LEDs. [Original repository](https://github.com/FastLED/FastLED).
 - **PS3_Controller_ESP32**: library for Sony DualShock 3 joypad/controller. [Original repository](https://github.com/jvpernis/esp32-ps3).
-- **PS4_Controller_ESP32**: library for Sony DualShock 3 joypad/controller. [Original repository](https://github.com/aed3/PS4-esp32).
+- **PS4_Controller_ESP32**: library for Sony DualShock 4 joypad/controller. [Original repository](https://github.com/aed3/PS4-esp32).
